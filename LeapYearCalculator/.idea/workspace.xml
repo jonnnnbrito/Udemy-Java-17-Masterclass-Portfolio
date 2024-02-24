@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3026a197-c7f2-40ea-8df5-572b5879610f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYearCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/SpeedConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpeedConverter/src/SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/DayOfTheWeekChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberInWord/src/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberOfDaysInMonth/src/NumberOfDaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +26,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ckpHJlbTJWVc6NRkxQOrUfcuao" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Documents/Udemy Java Portfolio/Udemy-Java-17-Masterclass-Portfolio/LeapYearCalculator&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
